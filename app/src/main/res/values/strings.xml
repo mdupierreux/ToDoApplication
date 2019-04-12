@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToDo Application</string>
+    <string name="channel_todos">Todo items</string>
+    <string name="channel_todos_description">All your todos</string>
+</resources>
